@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//minnunae.github.io/d2-reactapp/static/css/main.a617e044.chunk.css",
+    "main.js": "/https//minnunae.github.io/d2-reactapp/static/js/main.5375f9a1.chunk.js",
+    "main.js.map": "/https//minnunae.github.io/d2-reactapp/static/js/main.5375f9a1.chunk.js.map",
+    "runtime-main.js": "/https//minnunae.github.io/d2-reactapp/static/js/runtime-main.0a3eb624.js",
+    "runtime-main.js.map": "/https//minnunae.github.io/d2-reactapp/static/js/runtime-main.0a3eb624.js.map",
+    "static/js/2.9a8253dc.chunk.js": "/https//minnunae.github.io/d2-reactapp/static/js/2.9a8253dc.chunk.js",
+    "static/js/2.9a8253dc.chunk.js.map": "/https//minnunae.github.io/d2-reactapp/static/js/2.9a8253dc.chunk.js.map",
+    "static/js/3.c9b81baf.chunk.js": "/https//minnunae.github.io/d2-reactapp/static/js/3.c9b81baf.chunk.js",
+    "static/js/3.c9b81baf.chunk.js.map": "/https//minnunae.github.io/d2-reactapp/static/js/3.c9b81baf.chunk.js.map",
+    "index.html": "/https//minnunae.github.io/d2-reactapp/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/https//minnunae.github.io/d2-reactapp/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9a8253dc.chunk.js.LICENSE.txt": "/https//minnunae.github.io/d2-reactapp/static/js/2.9a8253dc.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//minnunae.github.io/d2-reactapp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3eb624.js",
+    "static/js/2.9a8253dc.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5375f9a1.chunk.js"
+  ]
+}
