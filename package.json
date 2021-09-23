@@ -2,8 +2,8 @@
   "name": "d2-reactapp",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https//minnunae.github.io/d2-reactapp",
   "dependencies": {
-    "homepage": "https//minnunae.github.io/d2-reactapp",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
