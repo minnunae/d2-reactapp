@@ -1,27 +1,46 @@
-//import logo from './logo.svg';
 import React from "react";
-import { BrowserRouter as Router } from "react-router-dom";
-import './App.css';
-import cat111 from './components/images/cattt.jpg';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import "./App.css";
 
-import About from './components/pages/About';
-import Contact from './components/pages/Contact';
-import Home from './components/pages/Home';
-import Profile from './components/pages/Profile';
-import Navbar from './components/pages/Navbar';
+import About from "./components/pages/About";
+import Contact from "./components/pages/Contact";
+import Home from "./components/pages/Home";
+import Navbar from "./components/pages/Navbar";
+import Profile from "./components/pages/Profile";
 
 function App() {
   return (
     <Router>
-      <div className="container-fluid">
+      <div>
         <Navbar />
-        <Home />
-        <About />
-        <Contact />
-        <Profile />
+
+        <Switch>
+
+          <Route exact path="/">
+            <Home />
+          </Route>
+          
+          <Route path="/home">
+            <Home />
+          </Route>
+
+          <Route path="/about">
+            <About />
+          </Route>
+
+          <Route path="/contact">
+            <Contact />
+          </Route>
+
+          <Route path="/profile">
+            <Profile />
+          </Route>
+
+        </Switch>
+
       </div>
-    </Router> 
-  )
+    </Router>
+  );
 }
 
 export default App;
